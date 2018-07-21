@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: black
+}
+
+.counts {
+    width: 505px;
+    margin: 0 auto;
+    color: white; font-size: 2em
+}
+
+#win {
+    color: green;
+}
+
+#lose {
+    color: red;
+}
